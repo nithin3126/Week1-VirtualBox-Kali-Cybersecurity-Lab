@@ -190,16 +190,6 @@ Through this practical assignment, I gained hands-on experience with:
 7. Connectivity troubleshooting.
 8. VirtualBox clipboard and drag-and-drop integration.
 
-## 🚀 Remaining Tasks
-
-The following items still need verification or completion:
-
-* [ ] Confirm the active NAT Network prefix is 10.0.0.0/24.
-* [ ] Configure Kali Linux with the required IP 10.0.0.2/24.
-* [ ] Resolve DNS and verify full Internet access.
-* [ ] Configure the required `/downloads` shared folder.
-* [ ] Create a clean Kali Linux VM snapshot.
-* [ ] Capture screenshots of the completed configurations.
 
 ## 🔐 Ethical Use
 
